@@ -24,7 +24,7 @@
 🎯 👦 Начальная цель: Найти хорошую работу с приятным коллективом и возможностью технического роста <br />
 🎯 👨 Глобальная цель: Тимлид, крутой тех. специалист, возможно свой бизнес в IT сфере. <br />
 
-:mailbox: Как связаться со мной: <br />
+:mailbox: Как связаться со мной: <br /><br />
 [![Telegram Badge](https://img.shields.io/badge/-dmitrybazhaev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/qb_wht) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qb.wheatley@gmail.com)
 
 ---
